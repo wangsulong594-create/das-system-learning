@@ -12,7 +12,7 @@
 
 $$\phi_k(t) = \phi(z_k, t)$$
 
-其中 $z_k = k \cdot \Delta z_{spatial}$，$k = 0, 1, 2, ..., N-1$
+其中 $z_k = k \cdot \Delta z_{spatial}$，$`k = 0, 1, 2, ..., N-1`$
 
 **Gauge Length应变估计**：
 $$\varepsilon_{GL}(z, t) = \frac{1}{L_{GL}} [\phi(z + L_{GL}/2, t) - \phi(z - L_{GL}/2, t)]$$
@@ -162,7 +162,7 @@ $$\Phi = \begin{bmatrix} \phi_1(t_1) & \phi_1(t_2) & \cdots & \phi_1(t_M) \\ \ph
 $$\Delta\Phi = D \times \Phi$$
 
 其中 $D$ 是差分矩阵：
-$$D = \begin{bmatrix} 1 & -1 & 0 & \cdots & 0 \\ 0 & 1 & -1 & \cdots & 0 \\ \vdots & \vdots & \ddots & \ddots & \vdots \\ 0 & 0 & \cdots & 1 & -1 \end{bmatrix}$$
+$`D = \begin{bmatrix} 1 & -1 & 0 & \cdots & 0 \\ 0 & 1 & -1 & \cdots & 0 \\ \vdots & \vdots & \ddots & \ddots & \vdots \\ 0 & 0 & \cdots & 1 & -1 \end{bmatrix}`$
 
 ### 10.6 应变计算
 
