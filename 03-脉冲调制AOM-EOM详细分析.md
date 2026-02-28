@@ -50,7 +50,7 @@ $$\phi(t) = \frac{\pi V(t)}{2V_\pi}$$
 
 其中：
 - $V(t)$ = 外加电压（时变信号）
-- $V_\pi$ = 使相位改变$\pi$的半波电压
+- $V_\pi$ = 使相位改变$`\pi`$的半波电压
 
 **振幅调制（通过偏振器）**：
 $$I_{out}(t) = I_0 \sin^2\left(\frac{\pi V(t)}{2V_\pi}\right)$$
@@ -82,8 +82,8 @@ $$\delta z = \Delta z = \frac{c \cdot \tau}{2 n_{eff}}$$
 $$T_{rep} > \frac{2 L n_{eff}}{c}$$
 
 其中：
-- $T_{rep}$ = 脉冲重复周期
-- $L$ = 光纤传感长度
+- $`T_{rep}`$ = 脉冲重复周期
+- $`L`$ = 光纤传感长度
 
 **脉冲重复频率**：
 $$f_{rep} = \frac{1}{T_{rep}} < \frac{c}{2 L n_{eff}}$$
