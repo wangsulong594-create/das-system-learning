@@ -95,7 +95,7 @@ $$f_{rep} < \frac{3 \times 10^8}{2 \times 10^4 \times 1.468} \approx 10.2 \text{
 
 #### 3.3.3 占空比 (Duty Cycle)
 
-$$`DC = \frac{\tau}{T_{rep}} \times 100\%`$$
+$$DC = \frac{\tau}{T_{rep}} \times 100\%$$
 
 通常 DC = 1-10% 是合理范围
 
