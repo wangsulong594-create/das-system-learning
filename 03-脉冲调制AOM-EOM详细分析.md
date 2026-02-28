@@ -63,7 +63,7 @@ $$I_{out}(t) = I_0 \sin^2\left(\frac{\pi V(t)}{2V_\pi}\right)$$
 $$\Delta z = \frac{c \cdot \tau}{2 n_{eff}}$$
 
 其中：
-- $c$ = 光速（$3 \times 10^8$ m/s）
+- $c$ = 光速（$`3 \times 10^8`$ m/s）
 - $\tau$ = 脉冲宽度（时间）
 - $n_{eff}$ = 光纤有效折射率（≈1.468）
 
@@ -95,11 +95,11 @@ $$f_{rep} < \frac{3 \times 10^8}{2 \times 10^4 \times 1.468} \approx 10.2 \text{
 
 #### 3.3.3 占空比 (Duty Cycle)
 
-$$DC = \frac{\tau}{T_{rep}} \times 100\%$$
+$$`DC = \frac{\tau}{T_{rep}} \times 100\%`$$
 
 通常 DC = 1-10% 是合理范围
 
-**示例**：$\tau = 100$ ns，$f_{rep} = 5$ kHz
+**示例**：$`\tau = 100`$ ns，$`f_{rep} = 5`$ kHz
 $$T_{rep} = \frac{1}{5000} = 200 \mu s = 2 \times 10^{-4} \text{ s}$$
 $$DC = \frac{100 \times 10^{-9}}{2 \times 10^{-4}} = 5 \times 10^{-4} = 0.05\% $$
 
@@ -119,7 +119,7 @@ $$DC = \frac{100 \times 10^{-9}}{2 \times 10^{-4}} = 5 \times 10^{-4} = 0.05\% $
 ### 3.5 DAS系统中的选择
 
 **应用场景参数**：
-- 光纤长度：$L = 10$ km
+- 光纤长度：$`L = 10`$ km
 - 目标空间分辨率：$\delta z = 10$ m
 - 目标时间分辨率：1 kHz
 
