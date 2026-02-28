@@ -82,7 +82,7 @@ EDFA产生的噪声功率谱密度：
 $$P_{ASE} = 2 n_{sp} (G - 1) h \nu_{signal} \Delta\nu_B$$
 
 其中：
-- $h$ = Planck常数（$6.626 \times 10^{-34}$ J·s）
+- $h$ = Planck常数（$`6.626 \times 10^{-34}`$ J·s）
 - $\nu_{signal}$ = 信号频率（1.55 × 10^14 Hz 对应1550 nm）
 - $\Delta\nu_B$ = 放大器带宽
 - $n_{sp}$ = 反演种群因子
